@@ -9,9 +9,17 @@ I’m a Software Engineer with 3+ years of experience developing production-read
 [LinkedIn](https://www.linkedin.com/in/sohaibrumi511) · [Email](mailto:sohaibrumi511@gmail.com)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sohaibrumi511&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&hide=stars,contribs" alt="GitHub statistics" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohaibrumi511&layout=compact&hide_border=true&theme=transparent&langs_count=6" alt="Most used languages" height="165" />
-</p>
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=sohaibrumi511&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&hide=stars,contribs"
+    alt="GitHub Statistics"
+    height="165"
+  />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=sohaibrumi511&layout=compact&hide_border=true&theme=transparent&langs_count=6"
+    alt="Most Used Languages"
+    height="165"
+  />
+</p>Ï
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=sohaibrumi511&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
