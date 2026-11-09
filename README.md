@@ -19,7 +19,7 @@ I’m a Software Engineer with 3+ years of experience developing production-read
     alt="Most Used Languages"
     height="165"
   />
-</p>Ï
+</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=sohaibrumi511&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
